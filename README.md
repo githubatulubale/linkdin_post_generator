@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 # LinkedIn Post Generator (LLM)
 
 This project uses GPT-2 (open-source LLM) to generate human-like LinkedIn posts across themes like AI, career growth, leadership Runs locally with no external APIs.
@@ -38,4 +38,4 @@ Visit `http://localhost:7860` in your browser.
  
 =======
 # linkdin_post_generator
->>>>>>> 83843dfb584469fc9670ef09eed0c2db085c5e1a
+ 
